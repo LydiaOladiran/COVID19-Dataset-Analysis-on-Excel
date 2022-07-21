@@ -14,6 +14,7 @@ Data cleaning was done using Power Query editor in Microsoft Excel. Some transfo
 6. The three tables were then merged as one
 
 ![Screenshot 2022-07-21 112543](https://user-images.githubusercontent.com/107180803/180226030-8fa9c09c-c82d-477d-936a-e66fba3a165e.jpg)
+
 ![Screenshot 2022-07-21 113500](https://user-images.githubusercontent.com/107180803/180226418-b6045aa3-2da3-4c66-8f48-c36c95ceb827.jpg)
 
 
