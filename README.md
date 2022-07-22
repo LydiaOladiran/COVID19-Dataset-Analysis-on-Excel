@@ -17,4 +17,21 @@ Data cleaning was done using Power Query editor in Microsoft Excel. Some transfo
 
 ![Screenshot 2022-07-21 113500](https://user-images.githubusercontent.com/107180803/180226418-b6045aa3-2da3-4c66-8f48-c36c95ceb827.jpg)
 
+# Data Analysis
+The Date column was expanded into year, month and day using appropriate excel functions 
+
+![Screenshot 2022-07-22 103242](https://user-images.githubusercontent.com/107180803/180411479-4533be25-30cd-4858-b651-a8a6a849059a.jpg)
+
+The merged data (Consolidated data) was summarized using pivot tables
+
+![Screenshot 2022-07-21 093158](https://user-images.githubusercontent.com/107180803/180411989-d28769d3-3eaf-4519-af65-a7df38f2a1fc.jpg)
+
+![Screenshot 2022-07-21 093242](https://user-images.githubusercontent.com/107180803/180412075-593d8954-b116-416b-8367-5dc5d665a481.jpg)
+
+# Data Visualization
+
+
+
+
+
 
