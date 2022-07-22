@@ -29,6 +29,10 @@ The merged data (Consolidated data) was summarized using pivot tables
 ![Screenshot 2022-07-21 093242](https://user-images.githubusercontent.com/107180803/180412075-593d8954-b116-416b-8367-5dc5d665a481.jpg)
 
 # Data Visualization
+The pivot tables were converted into charts. The dashboard was designed in Microsoft Excel by dragging and dropping the charts. 
+![Screenshot 2022-07-21 092842](https://user-images.githubusercontent.com/107180803/180412839-7ecf5f57-0056-4fb4-af86-16280cf21008.jpg)
+![Screenshot 2022-07-21 093036](https://user-images.githubusercontent.com/107180803/180412874-5211a586-f92f-456c-b8c5-cbde0577b361.jpg)
+
 
 
 
