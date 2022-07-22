@@ -33,6 +33,9 @@ The pivot tables were converted into charts. The dashboard was designed in Micro
 ![Screenshot 2022-07-21 092842](https://user-images.githubusercontent.com/107180803/180412839-7ecf5f57-0056-4fb4-af86-16280cf21008.jpg)
 ![Screenshot 2022-07-21 093036](https://user-images.githubusercontent.com/107180803/180412874-5211a586-f92f-456c-b8c5-cbde0577b361.jpg)
 
+# Summary
+Although there are still cases of COVID19 being reported, this analysis shows that the spread is being effectively controlled.
+
 
 
 
